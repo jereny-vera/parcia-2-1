@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<farmacia>
+    <medicamento>
+        <codigo>j4101</codigo>
+        <nombre>paracetamol</nombre>
+        <cantidad>3 gramos</cantidad>
+        <cura>todo</cura>
+        <precio_unidad>0.10</precio_unidad>
+    </medicamento>
+    <medicamento>
+        <codigo>j4111</codigo>
+        <nombre>parengefl</nombre>
+        <cantidad>4.5 gramos</cantidad>
+        <cura>dolor de cabeza</cura>
+        <precio_unidad>0.25</precio_unidad>
+    </medicamento>
+</farmacia>
